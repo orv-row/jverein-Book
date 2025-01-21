@@ -35,6 +35,10 @@ Der Übersicht View für Zusatzbeträge zeigt alle vorhandenen Zusatzbeträge an
 Über den Filterbereich lässt sich nach verschiedenen Kriterien filtern.
 
 ![](img/ZusatzBetraegeListeView.png)
+Folgende Filter unter "Ausführungstage" stehen zu Verfügung:
+* Aktive: Hier sind regelmäßig wiederkehrende Zusatzbeiträge aufgeführt
+* Noch nicht ausgeführt: Hier sind erfasste Zusatzbeiträge aufgeführt, die noch nicht durch einen Abrechnugslauf in Rechnung gestellt wurden
+* Dediziertes Datum: Hier kann das Datum des jeweiligen Abrechnungslaufs aufsgewählt werden, um die abgerechneten Zusatzbeiträge anzuzeigen
 
 Folgende Buttons stehen zu Verfügung:
 * Importieren: Damit können Zusatzbeträge aus einer Datei importiert werden. Siehe [Zusatzbeträge Importieren](zusatzbetrage-importieren.md)
